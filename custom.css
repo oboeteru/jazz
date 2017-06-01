@@ -1,0 +1,29 @@
+.container {
+    padding:0
+}
+
+.btn-success.active,.btn-success:active,.btn-success:focus,.btn-success:hover,.open .dropdown-toggle.btn-success{
+    background-color: #bc1838;
+    border: #bc1838 solid 1px;
+}
+
+.nav.navbar-nav.navbar-right>.page-scroll:hover>a{
+    color: #bc1838;
+}
+
+.navbar-header.page-scroll>a:hover{
+    color: #bc1838;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption{background:rgba(231, 63, 63,.7)}
+
+
+.btn-outline:active,.btn-outline:focus,.btn-outline:hover,
+.btn-social.active, .btn-social:focus, .btn-social:hover {color: #bc1838;background:none;border-color: #bc1838
+}
+
+hr.star-light{border-color:#bc1838}
+hr.star-light:after{color:#bc1838}
+
+hr.star-primary{border-color:#bc1838}
+hr.star-primary:after{color:#bc1838}
